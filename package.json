@@ -1,0 +1,14 @@
+{
+  "name": "abktestrailintg",
+  "version": "1.0.0",
+  "description": "abk trying test rail integration",
+  "main": "index.js",
+  "author": "abhijeet kadam",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^5.0.2",
+    "protractor": "^5.4.1",
+    "protractor-cucumber-framework": "^6.1.1",
+    "chai": "^4.2.0"
+  }
+}
